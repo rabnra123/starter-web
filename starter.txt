@@ -2,3 +2,8 @@ I am learning how to add a file in git using GitBash
 
 
 I am trying to add some data, change this file so see what happens and how it goes through.
+
+
+Now again I am adding some more lines to know about editing files.
+
+Again editing without committing
