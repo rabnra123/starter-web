@@ -14,3 +14,6 @@ Write a code and commit it and publish it so that everybody can see
 by using git diff
 
 CopyRight git training
+
+
+Please fork Repository
