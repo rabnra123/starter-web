@@ -1,5 +1,6 @@
 # Starter Web Repo
 
+Welcome you all.
 This repository is for showing how Git and GitHub work
 
 ## Purpose
@@ -17,3 +18,6 @@ CopyRight git training
 
 
 Please fork Repository
+
+adding a line for rebashing
+
