@@ -20,4 +20,5 @@ CopyRight git training
 Please fork Repository
 
 adding a line for rebashing , more changes from myfeature branch
+All rights reserved
 
